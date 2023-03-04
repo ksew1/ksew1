@@ -19,7 +19,6 @@ I have worked with
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
-
 I am learning
 
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
@@ -28,6 +27,7 @@ I am learning
 <a href="https://spring.io" title="Spring"><img src="https://github.com/get-icon/geticon/blob/master/icons/spring.svg" alt="Spring" width="21px" height="21px"></a>
 <a href="https://www.erlang.org" title="Erlang"><img src="https://github.com/get-icon/geticon/blob/master/icons/erlang.svg" alt="Erlang" width="21px" height="21px"></a>
 <a href="https://www.scala-lang.org" title="Scala"><img src="https://github.com/get-icon/geticon/blob/master/icons/scala.svg" alt="Scala" width="21px" height="21px"></a>
+<a href="https://www.mongodb.com" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksew1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
