@@ -20,5 +20,5 @@ I have worked with
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksew1&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksew1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
