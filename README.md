@@ -25,7 +25,7 @@ I am learning
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" alt="Docker" width="21px" height="21px"></a>
-<a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/springboot.svg" alt="Docker" width="21px" height="21px"></a>
+<a href="https://spring.io" title="Spring"><img src="https://github.com/get-icon/geticon/blob/master/icons/spring.svg" alt="Spring" width="21px" height="21px"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksew1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
