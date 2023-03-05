@@ -30,5 +30,5 @@ I am learning
 <a href="https://www.scala-lang.org" title="Scala"><img src="https://github.com/get-icon/geticon/blob/master/icons/scala.svg" alt="Scala" width="21px" height="21px"></a>
 <a href="https://www.mongodb.com" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksew1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksew1&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
